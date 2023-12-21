@@ -16,3 +16,4 @@
 | Lemmas     | Lemmatized forms of tokens, representing base or dictionary forms of words.                       |
 | POS        | Parts-of-Speech categories assigned to each token, indicating grammatical roles in the text.       |
 
+。
