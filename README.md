@@ -1,7 +1,11 @@
 # Introduction to the Corpus
 
-# Target Text Selection Criteria:
+# Target Audience and Intended Use:
 
 # Text Selection Criteria:
 
 # Data Collection Process:
+
+# Annotations and Tools:
+
+#
