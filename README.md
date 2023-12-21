@@ -1,11 +1,18 @@
-# Introduction to the Corpus
+# 1.Introduction to the Corpus
 
-# Target Audience and Intended Use:
+# 2.Target Audience and Intended Use:
 
-# Text Selection Criteria:
+# 3.Text Selection Criteria:
 
-# Data Collection Process:
+# 4.Data Collection Process:
 
-# Annotations and Tools:
+# 5.Annotations and Tools:
 
-#
+# 6.Description of the Columns
+| Column     | Description                                                                                      |
+|------------|--------------------------------------------------------------------------------------------------|
+| Filename   | Names or unique identifiers of Lana Del Rey songs from which lyrics were extracted.              |
+| Tokens     | Individual words, punctuation, and meaningful units extracted from the lyrics.                    |
+| Lemmas     | Lemmatized forms of tokens, representing base or dictionary forms of words.                       |
+| POS        | Parts-of-Speech categories assigned to each token, indicating grammatical roles in the text.       |
+
