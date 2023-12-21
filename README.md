@@ -15,5 +15,5 @@
 | Tokens     | Individual words, punctuation, and meaningful units extracted from the lyrics.                    |
 | Lemmas     | Lemmatized forms of tokens, representing base or dictionary forms of words.                       |
 | POS        | Parts-of-Speech categories assigned to each token, indicating grammatical roles in the text.       |
+| Document   | The original text exactly as it appears in the text file.                                         |
 
-。
